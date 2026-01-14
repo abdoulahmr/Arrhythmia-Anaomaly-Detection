@@ -1,0 +1,6 @@
+/__pycache__/
+*.pyc
+*.pyo
+/venv/
+/mit-bih-arrhythmia-database-1.0.0/
+cnn1d_mitbih_augmented.pth
